@@ -1,0 +1,13 @@
+#footer {
+    /* background: rebeccapurple; */
+    /* 透明色 */
+    background: transparent;
+}
+
+#footer-wrap {
+    color: darkslategray;
+}
+
+.footer-a {
+    color: darkslategray !important;
+}
